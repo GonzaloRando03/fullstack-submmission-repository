@@ -12,4 +12,5 @@ part1
 part2
   phonebook
   countries
+  courseinfo
 </pre>
