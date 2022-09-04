@@ -2,7 +2,7 @@ import {useState, useEffect} from 'react'
 import axios from 'axios'
 
 function CountryData({country}){
-/* 
+
     const [weather, setWeather] = useState()
 
     useEffect(() => {
@@ -36,7 +36,7 @@ function CountryData({country}){
           </div>
         )
       }
-       */
+  
     return (
         <div>
             <h1>{country.name.common}</h1>
