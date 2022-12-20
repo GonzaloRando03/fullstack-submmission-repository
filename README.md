@@ -13,24 +13,24 @@ part2
   phonebook
   countries
   courseinfo
- part3
+part3
   phonebook
- part4
+part4
   blogs
- part5
+part5
   blog-frontend
   blog-server
- part6
+part6
   anecdotes
   unicafe
- part7
+part7
   blogs
   country
   anecdotes
- part8
+part8
   library-frontend
   library-backend
- part9
+part9
   patientor-fontend
   patientor-backend
   courses
